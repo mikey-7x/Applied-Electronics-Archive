@@ -1,6 +1,4 @@
 # Applied-Electronics-Archive
-Applied-Electronics-Archive
-# Applied-Electronics-Archive
 
 **Engineer:** mikey-7x  
 **Focus:** Analog Circuitry, Power Electronics, RF Systems, and Embedded Hardware Integration
@@ -16,7 +14,7 @@ My engineering approach is heavily grounded in hands-on experimentation, compone
 *   **Output:** 220V AC (Capable of driving a 100W load)
 *   **Components:** 1x 2N6107 / 2N6109 Power Transistor, 1x Ferrite Core Transformer. (Zero resistors, capacitors, or ICs).
 *   **Resources:** 
-    *   [Link to Circuit Schematic PDF inside repo]
+    *   [](https://raw.githubusercontent.com/mikey-7x/Applied-Electronics-Archive/refs/heads/main/inverter.jpg)
     *   [Link to YouTube Video: Inverter Using Just Two Components]
 
 ---
