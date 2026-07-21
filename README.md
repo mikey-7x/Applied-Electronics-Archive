@@ -17,6 +17,10 @@ My engineering approach is heavily grounded in hands-on experimentation, compone
     *   ![invrter](inverter.jpg)
     *
     *  [![image-1](https://youtube.com/shorts/xqM4EFjhYp0?si=Oot4FFb5avRY6Ybz/maxresdefault.jpg)](https://youtube.com/shorts/xqM4EFjhYp0?si=Oot4FFb5avRY6Ybz)
+ 
+    *  # **👁️‍🗨️Practical outputs**  
+[![Inverter Using Just Two Components](https://img.youtube.com/vi/xqM4EFjhYp0/maxresdefault.jpg)](https://youtube.com/shorts/xqM4EFjhYp0)
+
 
 ---
 
