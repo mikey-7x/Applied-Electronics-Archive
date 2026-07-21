@@ -15,7 +15,8 @@ My engineering approach is heavily grounded in hands-on experimentation, compone
 *   **Components:** 1x 2N6107 / 2N6109 Power Transistor, 1x Ferrite Core Transformer. (Zero resistors, capacitors, or ICs).
 *   **Resources:** 
     *   ![invrter](inverter.jpg)
-    *   [Link to YouTube Video : https://youtube.com/shorts/xqM4EFjhYp0?si=Oot4FFb5avRY6Ybz]
+    *
+    *  [![image-1](https://youtube.com/shorts/xqM4EFjhYp0?si=Oot4FFb5avRY6Ybz/maxresdefault.jpg)](https://youtube.com/shorts/xqM4EFjhYp0?si=Oot4FFb5avRY6Ybz)
 
 ---
 
