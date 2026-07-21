@@ -27,8 +27,8 @@ These 10 notebooks represent my raw progression from learning basic symbols to d
 ### The Foundation (Books 1 & 2)
 The early notebooks show my initial steps into hardware. The drawings are raw and unrefined, reflecting my early learning phase before I fully mastered standard electronic symbology. 
 *   **Highlighted File:** `1 starting.pdf`
-    *   This file documents my very first successful experiments, including basic TDA 0161 metal detectors, NE555 timer flashing light circuits, and simple 1-to-2 transistor FM transmitters[span_0](https://github.com/mikey-7x/Applied-Electronics-Archive/releases/download/v1.0/1.starting.pdf)[span_0](https://github.com/mikey-7x/Applied-Electronics-Archive/releases/download/v1.0/10.RF.pdf). 
-    *   It also contains my early audio work, utilizing TDA2030 and MJE3055 amplifiers, as well as basic automatic street light circuits utilizing LDRs and BT136 components[span_1](start_span)[span_1](end_span).
+    *   This file documents my very first successful experiments, including basic TDA 0161 metal detectors, NE555 timer flashing light circuits, and simple 1-to-2 transistor FM transmitters[span_0](https://github.com/mikey-7x/Applied-Electronics-Archive/releases/download/v1.0/1.starting.pdf)[span_10](https://github.com/mikey-7x/Applied-Electronics-Archive/releases/download/v1.0/10.RF.pdf). 
+    *   It also contains my early audio work, utilizing TDA2030 and MJE3055 amplifiers, as well as basic automatic street light circuits utilizing LDRs and BT136 components.
 
 ### The Advanced Architectures (Books 6 - 10)
 As the notebooks progress, the circuit complexity and schematic drafting quality increase dramatically. These later books demonstrate my advanced capabilities in high-frequency RF and complex analog control. Key circuits documented here include:
