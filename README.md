@@ -24,7 +24,8 @@ My engineering approach is heavily grounded in hands-on experimentation, compone
 
 These 10 notebooks represent my raw progression from learning basic symbols to designing highly complex telecommunications hardware, power electronics, and bio-electronic integrations
 
-### The Foundation (Books 1 & 2) The early notebooks show my initial steps into hardware, documenting my very first successful experiments
+### The Foundation (Books 1 & 2) 
+The early notebooks show my initial steps into hardware, documenting my very first successful experiments
 
 * Audio & Automation: Early audio work utilizing TDA2030 and MJE3055 amplifiers, NE555 timer projects, metal detectors, and automatic street light circuits utilizing LDRs and BT136 components
 
@@ -32,14 +33,17 @@ These 10 notebooks represent my raw progression from learning basic symbols to d
 
 * EMP Generators: Early designs for electromagnetic pulse (EMP) generation and basic signal jammers
 
-### Power Electronics & High Voltage (Books 3, 4 & 5) These notebooks focus on pushing the boundaries of power handling, DC-to-AC conversion, and extreme voltage systems.
-Massive Power Inverters: Evolution from basic oscillators to massive 1500W, 2000W, and 5000W pure sine wave and modified sine wave inverters utilizing SG3525 and CD4047 controllers with heavy MOSFET arrays (IRF3205/IRFZ44N) and custom-wound ferrite transformers
+### Power Electronics & High Voltage (Books 3, 4 & 5) 
+These notebooks focus on pushing the boundaries of power handling, DC-to-AC conversion, and extreme voltage systems.
+
+* Massive Power Inverters: Evolution from basic oscillators to massive 1500W, 2000W, and 5000W pure sine wave and modified sine wave inverters utilizing SG3525 and CD4047 controllers with heavy MOSFET arrays (IRF3205/IRFZ44N) and custom-wound ferrite transformers
 
 * High Voltage & Plasma: Designs for high-frequency solid-state Tesla coils, plasma ball drivers, and discrete pulse stun guns capable of extreme voltage multiplication
 
 * Class-D Amplification: High-efficiency, low-heat 250W Class-D audio amplifier architectures
 
-### Advanced RF, Telecommunications & Jamming (Books 6, 7, 8 & 9) The circuit complexity and schematic drafting quality jump dramatically here, featuring advanced RF engineering and spectrum manipulation
+### Advanced RF, Telecommunications & Jamming (Books 6, 7, 8 & 9) 
+The circuit complexity and schematic drafting quality jump dramatically here, featuring advanced RF engineering and spectrum manipulation
 
 * Tactical Signal Jammers: Comprehensive broadband jamming devices targeting highly specific modern communication bands, including GSM, CDMA, 3G, and 4G LTE frequencies (900MHz to 2600MHz)
 
@@ -47,8 +51,10 @@ Massive Power Inverters: Evolution from basic oscillators to massive 1500W, 2000
 
 * Complex Transceivers: Multi-band Superheterodyne and Regenerative receivers, complete Walkie-Talkie architectures, and CW (Continuous Wave) transceivers built completely from discrete components
 
-### Bio-Electronics, Embedded Systems & Measurement (Book 10) My most recent work bridging analog hardware with digital processing and human biology.
-Brain-Computer Interfaces (BCI): Custom-designed EEG (Electroencephalogram) sensors using precision NE5534AP/TL081 instrumentation amplifiers. Includes an ambitious "mind control mouse" concept designed to capture brainwave stimuli via active electrodes
+### Bio-Electronics, Embedded Systems & Measurement (Book 10) 
+My most recent work bridging analog hardware with digital processing and human biology.
+
+* Brain-Computer Interfaces (BCI): Custom-designed EEG (Electroencephalogram) sensors using precision NE5534AP/TL081 instrumentation amplifiers. Includes an ambitious "mind control mouse" concept designed to capture brainwave stimuli via active electrodes
 
 * Airband & Specialized Receiving: Highly sensitive Airband receivers designed to intercept aviation communications (108-137 MHz)
 
@@ -56,10 +62,11 @@ Brain-Computer Interfaces (BCI): Custom-designed EEG (Electroencephalogram) sens
 
 ---
 
-🛠️ Skills Demonstrated
-RF Impedance Matching & Calculus: Practical application of L-matching networks, VNA (Vector Network Analyzer) impedance concepts, and Butterworth filter calculations for precise antenna tuning and optimal power transfer
+### 🛠️ Skills Demonstrated
 
-Custom Magnetic Component Fabrication: Calculating, designing, and hand-winding custom toroids, air-core inductors, and heavy-duty power transformers using specific AWG copper wire formulas
+* RF Impedance Matching & Calculus: Practical application of L-matching networks,rf oscillators, and Butterworth filter calculations for precise antenna tuning and optimal power transfer
+
+Custom Magnetic Component Fabrication: Calculating, designing air-core inductors,air-core ifc using specific AWG copper wire formulas
 
 Discrete Component Architecture: The ability to construct complex logic gates, specialized oscillators (Colpitts, Hartley, Wien Bridge), and high-power amplifier stages without relying on pre-packaged ICs
 
@@ -67,9 +74,9 @@ PCB & Circuit Fabrication: Excellent soldering skills with a deep understanding 
 
 Component Identification: Instant visual recognition of resistor, capacitor, inductor, and SMD color codes/values
 
-High-Power Systems: Safe handling and design of high-voltage transformers, power amplifiers (Class A through H), and complex radio frequency systems
+High-Power Systems: Safe handling and design of high-voltage tesla coils, power amplifiers (Class A through H), and complex radio frequency systems
 
-Reverse Engineering: Pinout tracing and reverse engineering of modern consumer interfaces, including HDMI, USB, and VGA architectures
+* Reverse Engineering: Pinout tracing and reverse engineering of modern consumer interfaces
 
 ---
 
