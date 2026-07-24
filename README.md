@@ -26,11 +26,11 @@ These 10 notebooks represent my raw progression from learning basic symbols to d
 
 ### The Foundation (Books 1 & 2) The early notebooks show my initial steps into hardware, documenting my very first successful experiments
 
-*** Audio & Automation: Early audio work utilizing TDA2030 and MJE3055 amplifiers, NE555 timer projects, metal detectors, and automatic street light circuits utilizing LDRs and BT136 components
+* Audio & Automation: Early audio work utilizing TDA2030 and MJE3055 amplifiers, NE555 timer projects, metal detectors, and automatic street light circuits utilizing LDRs and BT136 components
 
-* ** Wireless Sound: Experimental circuits for transferring sound wirelessly via light/laser sources
+* Wireless Sound: Experimental circuits for transferring sound wirelessly via light/laser sources
 
-* ** EMP Generators: Early designs for electromagnetic pulse (EMP) generation and basic signal jammers
+* EMP Generators: Early designs for electromagnetic pulse (EMP) generation and basic signal jammers
 
 ### Power Electronics & High Voltage (Books 3, 4 & 5) These notebooks focus on pushing the boundaries of power handling, DC-to-AC conversion, and extreme voltage systems.
 Massive Power Inverters: Evolution from basic oscillators to massive 1500W, 2000W, and 5000W pure sine wave and modified sine wave inverters utilizing SG3525 and CD4047 controllers with heavy MOSFET arrays (IRF3205/IRFZ44N) and custom-wound ferrite transformers
@@ -54,14 +54,24 @@ Brain-Computer Interfaces (BCI): Custom-designed EEG (Electroencephalogram) sens
 
 * Digital Microcontrollers: Bare-metal ATmega328 programming, Arduino Uno bootloading, NRF24L01 wireless data transceiver integration, and custom digital frequency counters utilizing LCD interfaces
 
-
-
 ---
 
-## 🛠️ Skills Demonstrated
-*   **PCB & Circuit Fabrication:** Excellent soldering skills with a deep understanding of discrete components.
-*   **Component Identification:** Instant visual recognition of resistor, capacitor, inductor, and SMD color codes/values.
-*   **High-Power & RF Systems:** Safe handling and design of high-voltage transformers, power amplifiers (Class A through H), and complex radio frequency systems.
+🛠️ Skills Demonstrated
+RF Impedance Matching & Calculus: Practical application of L-matching networks, VNA (Vector Network Analyzer) impedance concepts, and Butterworth filter calculations for precise antenna tuning and optimal power transfer
+
+Custom Magnetic Component Fabrication: Calculating, designing, and hand-winding custom toroids, air-core inductors, and heavy-duty power transformers using specific AWG copper wire formulas
+
+Discrete Component Architecture: The ability to construct complex logic gates, specialized oscillators (Colpitts, Hartley, Wien Bridge), and high-power amplifier stages without relying on pre-packaged ICs
+
+PCB & Circuit Fabrication: Excellent soldering skills with a deep understanding of discrete components
+
+Component Identification: Instant visual recognition of resistor, capacitor, inductor, and SMD color codes/values
+
+High-Power Systems: Safe handling and design of high-voltage transformers, power amplifiers (Class A through H), and complex radio frequency systems
+
+Reverse Engineering: Pinout tracing and reverse engineering of modern consumer interfaces, including HDMI, USB, and VGA architectures
+
+---
 
 ## ⚖️ License & Copyright
 **© mikey-7x. All Rights Reserved.**
