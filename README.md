@@ -66,15 +66,15 @@ My most recent work bridging analog hardware with digital processing and human b
 
 * RF Impedance Matching & Calculus: Practical application of L-matching networks,rf oscillators, and Butterworth filter calculations for precise antenna tuning and optimal power transfer
 
-Custom Magnetic Component Fabrication: Calculating, designing air-core inductors,air-core ifc using specific AWG copper wire formulas
+* Custom Magnetic Component Fabrication: Calculating, designing air-core inductors,air-core ifc using specific AWG copper wire formulas
 
-Discrete Component Architecture: The ability to construct complex logic gates, specialized oscillators (Colpitts, Hartley, Wien Bridge), and high-power amplifier stages without relying on pre-packaged ICs
+* Discrete Component Architecture: The ability to construct complex logic gates, specialized oscillators (Colpitts, Hartley, Wien Bridge), and high-power amplifier stages without relying on pre-packaged ICs
 
-PCB & Circuit Fabrication: Excellent soldering skills with a deep understanding of discrete components
+* PCB & Circuit Fabrication: Excellent soldering skills with a deep understanding of discrete components
 
-Component Identification: Instant visual recognition of resistor, capacitor, inductor, and SMD color codes/values
+* Component Identification: Instant visual recognition of resistor, capacitor, inductor, and SMD color codes/values
 
-High-Power Systems: Safe handling and design of high-voltage tesla coils, power amplifiers (Class A through H), and complex radio frequency systems
+* High-Power Systems: Safe handling and design of high-voltage tesla coils, power amplifiers (Class A through H), and complex radio frequency systems
 
 * Reverse Engineering: Pinout tracing and reverse engineering of modern consumer interfaces
 
