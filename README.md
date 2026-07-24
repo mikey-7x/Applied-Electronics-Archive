@@ -22,19 +22,39 @@ My engineering approach is heavily grounded in hands-on experimentation, compone
 
 ## 📚 The 10 Books: An Engineering Journey
 
-These 10 notebooks represent my raw progression from learning basic symbols to designing highly complex telecommunications hardware. 
+These 10 notebooks represent my raw progression from learning basic symbols to designing highly complex telecommunications hardware, power electronics, and bio-electronic integrations
 
-### The Foundation (Books 1 & 2)
-The early notebooks show my initial steps into hardware. The drawings are raw and unrefined, reflecting my early learning phase before I fully mastered standard electronic symbology. 
-*   **Highlighted File:** `1 starting.pdf`
-    *   This file documents my very first successful experiments, including basic TDA 0161 metal detectors, NE555 timer flashing light circuits, and simple 1-to-2 transistor FM transmitters[span_0](https://github.com/mikey-7x/Applied-Electronics-Archive/releases/download/v1.0/1.starting.pdf)[span_10](https://github.com/mikey-7x/Applied-Electronics-Archive/releases/download/v1.0/10.RF.pdf). 
-    *   It also contains my early audio work, utilizing TDA2030 and MJE3055 amplifiers, as well as basic automatic street light circuits utilizing LDRs and BT136 components.
+### The Foundation (Books 1 & 2) The early notebooks show my initial steps into hardware, documenting my very first successful experiments
 
-### The Advanced Architectures (Books 6 - 10)
-As the notebooks progress, the circuit complexity and schematic drafting quality increase dramatically. These later books demonstrate my advanced capabilities in high-frequency RF and complex analog control. Key circuits documented here include:
-*   **Advanced Telecommunications:** Complete TV transmitters and CW (Continuous Wave) transceivers.
-*   **Remote Control Systems:** Custom RC controller circuitry.
-*   **Complex RF Systems:** Sophisticated multi-band radios and high-power signal amplifiers.
+*** Audio & Automation: Early audio work utilizing TDA2030 and MJE3055 amplifiers, NE555 timer projects, metal detectors, and automatic street light circuits utilizing LDRs and BT136 components
+
+* ** Wireless Sound: Experimental circuits for transferring sound wirelessly via light/laser sources
+
+* ** EMP Generators: Early designs for electromagnetic pulse (EMP) generation and basic signal jammers
+
+### Power Electronics & High Voltage (Books 3, 4 & 5) These notebooks focus on pushing the boundaries of power handling, DC-to-AC conversion, and extreme voltage systems.
+Massive Power Inverters: Evolution from basic oscillators to massive 1500W, 2000W, and 5000W pure sine wave and modified sine wave inverters utilizing SG3525 and CD4047 controllers with heavy MOSFET arrays (IRF3205/IRFZ44N) and custom-wound ferrite transformers
+
+* High Voltage & Plasma: Designs for high-frequency solid-state Tesla coils, plasma ball drivers, and discrete pulse stun guns capable of extreme voltage multiplication
+
+* Class-D Amplification: High-efficiency, low-heat 250W Class-D audio amplifier architectures
+
+### Advanced RF, Telecommunications & Jamming (Books 6, 7, 8 & 9) The circuit complexity and schematic drafting quality jump dramatically here, featuring advanced RF engineering and spectrum manipulation
+
+* Tactical Signal Jammers: Comprehensive broadband jamming devices targeting highly specific modern communication bands, including GSM, CDMA, 3G, and 4G LTE frequencies (900MHz to 2600MHz)
+
+* Long-Range Broadcast: Custom 2km TV transmitters, 3W to 15W FM Radio Power Amplifiers (88-108 MHz), and shortwave transmitters
+
+* Complex Transceivers: Multi-band Superheterodyne and Regenerative receivers, complete Walkie-Talkie architectures, and CW (Continuous Wave) transceivers built completely from discrete components
+
+### Bio-Electronics, Embedded Systems & Measurement (Book 10) My most recent work bridging analog hardware with digital processing and human biology.
+Brain-Computer Interfaces (BCI): Custom-designed EEG (Electroencephalogram) sensors using precision NE5534AP/TL081 instrumentation amplifiers. Includes an ambitious "mind control mouse" concept designed to capture brainwave stimuli via active electrodes
+
+* Airband & Specialized Receiving: Highly sensitive Airband receivers designed to intercept aviation communications (108-137 MHz)
+
+* Digital Microcontrollers: Bare-metal ATmega328 programming, Arduino Uno bootloading, NRF24L01 wireless data transceiver integration, and custom digital frequency counters utilizing LCD interfaces
+
+
 
 ---
 
