@@ -40,7 +40,28 @@ Even though the 74HC04 ring oscillator has no battery or power supply connected 
 • 74HC04 Hex Inverter IC configured as a Ring Oscillator (Unpowered / acting as a capacitive ground)
 
 • Single LED & single wire transmission line
+
+**[3] Self-Powered 7MHz Frequency Counter Prototype by mikey-7x 💥**
 ​
+In this video, I demonstrate a custom-built ATmega328p microcontroller-based frequency counter capable of precisely measuring frequencies up to 6.5 - 7 MHz. 
+
+⚡ The Engineering Hack: It Runs Without a Power Supply!
+
+If you watch closely, you will see that the 12V battery bank is completely physically disconnected from the board. Instead of relying on an external battery, this frequency counter is designed to draw its operating power directly from the device and the signal it is actively measuring! By extracting parasitic power from the input signal, it boots up the microcontroller and drives the LCD display entirely on its own.
+
+⚠️ Circuit Limitations:
+
+Because the circuit relies on the input signal for power, it requires a signal source with enough current to drive the ATmega328p and the LCD. When measuring very high-frequency signals where the available power/current is extremely low, the signal may not be sufficient to turn on the counter. 
+
+🛠️ Hardware Specs:
+
+• Brain: ATmega328p Microcontroller
+
+• Display: 16x2 LCD
+
+• Measurement Range: Up to 6.5 - 7 MHz
+
+• Power Source: Parasitic (Draws power directly from the measured signal)
 
 ---
 
