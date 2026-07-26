@@ -47,7 +47,7 @@ Team members:
 
 These experiments involve deadly mains voltage and extremely high-voltage, high-frequency output. Do not attempt to recreate these circuits without proper electrical safety training, isolation, and precautions. 
 
-**[2] Mini Singing Tesla Coil: Playing Music with High-Voltage Sparks! 💥**
+**[3] Mini Singing Tesla Coil: Playing Music with High-Voltage Sparks! 💥**
 
 In this video, I demonstrate my custom-built Mini Singing Tesla Coil—a high-voltage circuit that plays music directly through electrical arcs without using a traditional speaker! 
 
@@ -60,11 +60,22 @@ The core of this project is a self-resonating Tesla coil circuit. To make the co
 
 As the audio signal fluctuates, the TIP122 rapidly alters the power of the high-frequency electrical arcs. These expanding and contracting arcs instantly heat and cool the surrounding air, creating pressure waves that our ears perceive as perfectly clear music. The spark itself becomes the speaker cone!
 
-**[3] Single-Wire Power Communication Prototype by mikey-7x 💥**
+**[4] Mini Tesla Coil Experiment: Creating Violet Plasma Arcs Inside a Glass Bulb! 💥**
+
+In this video, I demonstrate a fascinating high-voltage physics phenomenon using my custom-built mini Tesla coil. By bringing a standard glass bulb into the high-frequency RF field of the coil, the low-pressure gas inside the bulb becomes ionized. This creates striking, violet-colored plasma arcs, effectively turning a simple bulb into a miniature plasma globe!
+
+* [![6](https://img.youtube.com/vi/jch7w_8km-I/maxresdefault.jpg)](https://youtube.com/shorts/jch7w_8km-I)
+* [![7](https://img.youtube.com/vi/aZtd49iwb7Q/maxresdefault.jpg)](https://youtube.com/shorts/aZtd49iwb7Q)
+* [![8](https://img.youtube.com/vi/XkZaCG1TXFA/maxresdefault.jpg)](https://youtube.com/shorts/XkZaCG1TXFA)
+
+⚙️ The Science Behind the Arcs:
+The Tesla coil acts as a resonant transformer, generating an intense, high-voltage, high-frequency electromagnetic field. When the glass bulb enters this field, the electrical energy passes right through the glass (acting as a dielectric) and excites the gas molecules inside. As the gas ionizes and enters a plasma state, it forms those visible violet filaments, all without any direct wired connection to the bulb!
+
+**[5] Single-Wire Power Communication Prototype by mikey-7x 💥**
 
 In this experiment, I demonstrate a unique prototype for Single-Wire Power Communication, inspired by Nikola Tesla's high-frequency transmission concepts.
 
-[![6](https://img.youtube.com/vi/mzYTZGSiGVU/maxresdefault.jpg)](https://youtube.com/shorts/mzYTZGSiGVU)
+[![9](https://img.youtube.com/vi/mzYTZGSiGVU/maxresdefault.jpg)](https://youtube.com/shorts/mzYTZGSiGVU)
 
 ​⚡ The Setup & The Discovery:
 
@@ -83,12 +94,12 @@ Even though the 74HC04 ring oscillator has no battery or power supply connected 
 
 • Single LED & single wire transmission line
 
-**[3] Self-Powered 7MHz Frequency Counter Prototype by mikey-7x 💥**
+**[6] Self-Powered 7MHz Frequency Counter Prototype by mikey-7x 💥**
 ​
 In this video, I demonstrate a custom-built ATmega328p microcontroller-based frequency counter capable of precisely measuring frequencies up to 6.5 - 7 MHz. 
 
 
-[![7](https://img.youtube.com/vi/6mR5HOy_Y4Y/maxresdefault.jpg)](https://youtube.com/shorts/6mR5HOy_Y4Y)
+[![10](https://img.youtube.com/vi/6mR5HOy_Y4Y/maxresdefault.jpg)](https://youtube.com/shorts/6mR5HOy_Y4Y)
 
 ⚡ The Engineering Hack: 
 It Runs Without a Power Supply!
