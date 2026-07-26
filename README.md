@@ -21,18 +21,24 @@ My engineering approach is heavily grounded in hands-on experimentation, compone
 
 In this experiment, I demonstrate a unique prototype for Single-Wire Power Communication, inspired by Nikola Tesla's high-frequency transmission concepts.
 
+[![2](https://img.youtube.com/vi/mzYTZGSiGVU/maxresdefault.jpg)](https://youtube.com/shorts/mzYTZGSiGVU)
+
 ​⚡ The Setup & The Discovery:
+
 The main power source is a separate, custom-built mini high-frequency Tesla coil running on a self-oscillating frequency (powered by a 3.7V 18650 battery). Typically, if you take a single wire from a Tesla coil to an LED, you have to touch the other leg of the LED with your bare skin so your body acts as a ground to turn it on.
 ​However, in this video, I demonstrate a workaround I discovered! Instead of using human skin contact, I connected the second leg of the LED to a completely unpowered 74HC04 (Hex Inverter) ring oscillator circuit.
 
 ​⚙️ How it Works:
+
 Even though the 74HC04 ring oscillator has no battery or power supply connected to it, the physical PCB, components, and the IC itself act as a capacitive load. Because the Tesla coil outputs high-frequency AC, the unpowered circuit board provides enough stray capacitance to complete the circuit with the surrounding environment, lighting up the LED brightly with only ONE wire connected to the power source and absolutely zero human contact!
 
 ​🛠️ Hardware Used:
+
 • Self-oscillating mini high-frequency Tesla Coil (Transmitter)
 • 74HC04 Hex Inverter IC configured as a Ring Oscillator (Unpowered / acting as a capacitive ground)
 • Single LED & single wire transmission line
 ​
+
 ---
 
 ## 📚 The 10 Books: An Engineering Journey
