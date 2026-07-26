@@ -91,8 +91,10 @@ My most recent work bridging analog hardware with digital processing and human b
 ---
 
 ## ⚖️ License & Copyright
+
 **© mikey-7x. All Rights Reserved.**
 The circuit diagrams, documentation, and concepts provided in this repository are open for educational review and personal study. 
 
 **Strict Non-Commercial Use:** You may not use, manufacture, or distribute these designs for any commercial purpose or financial profit. 
+
 **Attribution:** If any of these circuits are modified, adapted, or shared in an educational context, clear and explicit attribution to the original creator (mikey-7x) must be provided.
