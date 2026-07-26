@@ -10,7 +10,7 @@ My engineering approach is heavily grounded in hands-on experimentation, compone
 ## 🚀 Featured Project
 **Inverter Using Just Two Components**
 *A minimalist approach to power electronics.*
-*   **Input:** 12V DC
+*   **Input:** 12V-20V DC,5A
 *   **Output:** 220V AC (Capable of driving a 100W load)
 *   **Components:** 1x 2N6107 / 2N6109 Power Transistor, 1x Ferrite Core Transformer. (Zero resistors, capacitors, or ICs).
 *   **Resources:** 
