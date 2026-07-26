@@ -22,24 +22,31 @@ My engineering approach is heavily grounded in hands-on experimentation, compone
 
 Welcome to my Tesla Coil experimental series! In this ongoing project, I am exploring the principles of Nikola Tesla's high-frequency, high-voltage resonant transformers with the ultimate goal of demonstrating and scaling wireless power transmission.
 
-[![1](https://img.youtube.com/vi/6mR5HOy_Y4Y/maxresdefault.jpg)](https://youtube.com/shorts/U8-dYwBFkcc)
+[![1](https://img.youtube.com/vi/U8-dYwBFkcc/maxresdefault.jpg)](https://youtube.com/shorts/U8-dYwBFkcc)
 
-[![4](https://img.youtube.com/vi/6mR5HOy_Y4Y/maxresdefault.jpg)](https://youtube.com/shorts/6mR5HOy_Y4Y)
+[![2](https://img.youtube.com/vi/1LTHiPgM9hw/maxresdefault.jpg)](https://youtu.be/1LTHiPgM9hw)
 
 
-[![4](https://img.youtube.com/vi/6mR5HOy_Y4Y/maxresdefault.jpg)](https://youtube.com/shorts/6mR5HOy_Y4Y)
+[![3](https://img.youtube.com/vi/UG_9yGoyaUg/maxresdefault.jpg)](https://youtube.com/shorts/UG_9yGoyaUg)
 
 ⚡ About This Series:
-Throughout these experiments, I am designing, winding, and testing custom solid-state driver circuits and resonant coils. By generating extremely high voltages at high frequencies, these circuits create strong electromagnetic fields capable of transferring electrical energy through the air without physical wires. Watch as I tweak the primary/secondary ratios, test different MOSFET/transistor driver setups, and push the limits of the arcs!
+
+Throughout these experiments, my team designing, winding, and testing custom solid-state driver circuits and resonant coils. By generating extremely high voltages at high frequencies, these circuits create strong electromagnetic fields capable of transferring electrical energy through the air without physical wires. Watch as I tweak the primary/secondary ratios, test different MOSFET/transistor driver setups, and push the limits of the arcs!
+
+Team members:
+1)yogesh (mikey-7x)
+2)maharshi
+3)kishan
 
 ⚠️ SAFETY WARNING: 
+
 These experiments involve deadly mains voltage and extremely high-voltage, high-frequency output. Do not attempt to recreate these circuits without proper electrical safety training, isolation, and precautions. 
 
 **[3] Single-Wire Power Communication Prototype by mikey-7x 💥**
 
 In this experiment, I demonstrate a unique prototype for Single-Wire Power Communication, inspired by Nikola Tesla's high-frequency transmission concepts.
 
-[![2](https://img.youtube.com/vi/mzYTZGSiGVU/maxresdefault.jpg)](https://youtube.com/shorts/mzYTZGSiGVU)
+[![4](https://img.youtube.com/vi/mzYTZGSiGVU/maxresdefault.jpg)](https://youtube.com/shorts/mzYTZGSiGVU)
 
 ​⚡ The Setup & The Discovery:
 
@@ -63,7 +70,7 @@ Even though the 74HC04 ring oscillator has no battery or power supply connected 
 In this video, I demonstrate a custom-built ATmega328p microcontroller-based frequency counter capable of precisely measuring frequencies up to 6.5 - 7 MHz. 
 
 
-[![4](https://img.youtube.com/vi/6mR5HOy_Y4Y/maxresdefault.jpg)](https://youtube.com/shorts/6mR5HOy_Y4Y)
+[![5](https://img.youtube.com/vi/6mR5HOy_Y4Y/maxresdefault.jpg)](https://youtube.com/shorts/6mR5HOy_Y4Y)
 
 ⚡ The Engineering Hack: 
 It Runs Without a Power Supply!
