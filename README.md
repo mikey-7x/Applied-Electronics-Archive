@@ -34,9 +34,10 @@ Welcome to my Tesla Coil experimental series! In this ongoing project, I am expl
 Throughout these experiments, my team designing, winding, and testing custom solid-state driver circuits and resonant coils. By generating extremely high voltages at high frequencies, these circuits create strong electromagnetic fields capable of transferring electrical energy through the air without physical wires. Watch as I tweak the primary/secondary ratios, test different MOSFET/transistor driver setups, and push the limits of the arcs!
 
 Team members:
-1)yogesh (mikey-7x)
-2)maharshi
-3)kishan
+
+* yogesh (mikey-7x)
+* maharshi
+* kishan
 
 ⚠️ SAFETY WARNING: 
 
