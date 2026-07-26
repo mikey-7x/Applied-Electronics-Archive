@@ -22,7 +22,7 @@ During my internship at Rhino Machines Pvt. Ltd., I expanded my expertise from d
 
 *   **Safety Constraints:** The line wire is jointed in series with an MCB, an overload relay, and an emergency switch to ensure human safety and short-circuit protection.If the load increases, the overload relay automatically switches off the system, or it can be manually shut down via the emergency switch.
 
-[![Automatic Crane Lifting Mechanism](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Automatic Crane Lifting Mechanism](https://img.youtube.com/vi/g0Mo0__jNfM/maxresdefault.jpg)](https://youtube.com/shorts/g0Mo0__jNfM)
 *(Click image to watch the live hardware demonstration)*
 
 ### ⚙️ Project 2: The Breakthrough - Fully Automatic Crusher Machine
