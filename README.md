@@ -18,6 +18,38 @@ My engineering approach is heavily grounded in hands-on experimentation, compone
     *   ![invrter](inverter.jpg)
     *   [![Inverter Using Just Two Components](https://img.youtube.com/vi/xqM4EFjhYp0/maxresdefault.jpg)](https://youtube.com/shorts/xqM4EFjhYp0)
  
+## 🏭 Industrial Automation & Control Systems (Rhino Machines Internship)
+
+During my internship at Rhino Machines Pvt. Ltd., I expanded my expertise from discrete electronics into heavy industrial electrical control. I was tasked with designing highly optimized, cost-effective automation systems using pure electrical relay logic, strictly avoiding microcontrollers or electronic PCBs.
+
+### 🏗️ Project 1: Automatic Crane Lifting Mechanism
+**Objective:** Design a fully automated crane cycle using the absolute minimum number of electrical components.
+*   **Operation:** A single push of switch 'S' activates contactor 1, running the motor in the forward direction to lift the crane upwards[span_0](start_span)[span_0](end_span).
+*   Once the crane reaches the top, limit switch 1 is pushed, stopping the motor for a specific duration controlled by a timer's delay[span_1](start_span)[span_1](end_span).
+*   After the delay, the system automatically reverses to bring the crane down and stops completely.
+*   **Safety Constraints:** The line wire is jointed in series with an MCB, an overload relay, and an emergency switch to ensure human safety and short-circuit protection[span_2](start_span)[span_2](end_span). If the load increases, the overload relay automatically switches off the system, or it can be manually shut down via the emergency switch[span_3](start_span)[span_3](end_span).
+
+[![Automatic Crane Lifting Mechanism](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+*(Click image to watch the live hardware demonstration)*
+
+### ⚙️ Project 2: The Breakthrough - Fully Automatic Crusher Machine
+**The Mentor's Challenge:** For our final task, we were asked to design an automatic garbage crusher machine operated by a single ON/OFF switch. The workflow required a pre-set delay before starting, an automatic reverse function for a fixed period if the crusher jammed/overloaded, and an automatic return to forward crushing. The major constraint: use a maximum of three timers.
+
+Rhino Machines had already developed a highly advanced version of this machine using three timers and multiple contactors. It was considered an almost impossible task for a student to optimize further.
+
+**My Solution (The Time Interchange Method):**
+I spent two straight days intensely focused on the circuit design, determined to break the limits of the original industrial standard. I successfully achieved the impossible: **I developed the exact same complex workflow using just one timer and two contactors.**
+
+*   **How it Works:** Phase current turns on contactor 3 through the NO terminal of the overload relay, immediately starting the single timer's delay[span_4](start_span)[span_4](end_span).
+*   After the delay, Contactor-1 starts, running the 3-phase motor in the forward (crushing) direction[span_5](start_span)[span_5](end_span).
+*   If the system jams, overload relay-1 detects the load, opening its NC terminal to turn off contactor-1 and stop the motor[span_6](start_span)[span_6](end_span).
+*   Instead of relying on multiple timers to manage the reverse and resume functions like the original design, I configured this single timer to interchange and control all three distinct time cycles.
+
+When I presented the live demonstration, my mentor was highly impressed and immediately called the Head of Rhino Machines to watch. They were thoroughly amazed by the optimization, which led them to review my Tesla coil experiments with equal enthusiasm. This milestone proved my ability to heavily optimize complex, real-world industrial machinery.
+
+*(Detailed schematics and presentation slides for these automation systems are available in the `Rhino ppt final.pdf` file included in this repository).*
+
+ 
 **[2] Tesla Experiments: High Voltage Wireless Power Transmission 💥**
 
 Welcome to my Tesla Coil experimental series! In this ongoing project, I am exploring the principles of Nikola Tesla's high-frequency, high-voltage resonant transformers with the ultimate goal of demonstrating and scaling wireless power transmission.
