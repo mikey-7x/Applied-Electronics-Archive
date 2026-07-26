@@ -45,7 +45,11 @@ Even though the 74HC04 ring oscillator has no battery or power supply connected 
 ​
 In this video, I demonstrate a custom-built ATmega328p microcontroller-based frequency counter capable of precisely measuring frequencies up to 6.5 - 7 MHz. 
 
-⚡ The Engineering Hack: It Runs Without a Power Supply!
+
+[![3](https://img.youtube.com/vi/6mR5HOy_Y4Y/maxresdefault.jpg)](https://youtube.com/shorts/6mR5HOy_Y4Y)
+
+⚡ The Engineering Hack: 
+It Runs Without a Power Supply!
 
 If you watch closely, you will see that the 12V battery bank is completely physically disconnected from the board. Instead of relying on an external battery, this frequency counter is designed to draw its operating power directly from the device and the signal it is actively measuring! By extracting parasitic power from the input signal, it boots up the microcontroller and drives the LCD display entirely on its own.
 
