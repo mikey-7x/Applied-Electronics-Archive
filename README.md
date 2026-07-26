@@ -9,6 +9,7 @@ My engineering approach is heavily grounded in hands-on experimentation, compone
 
 ## 🚀 Featured Project
 **[1] Inverter Using Just Two Components 💥**
+
 *A minimalist approach to power electronics.*
 *   **Input:** 12V-20V DC,5A
 *   **Output:** 220V AC (Capable of driving a 100W load)
@@ -35,7 +36,9 @@ Even though the 74HC04 ring oscillator has no battery or power supply connected 
 ​🛠️ Hardware Used:
 
 • Self-oscillating mini high-frequency Tesla Coil (Transmitter)
+
 • 74HC04 Hex Inverter IC configured as a Ring Oscillator (Unpowered / acting as a capacitive ground)
+
 • Single LED & single wire transmission line
 ​
 
