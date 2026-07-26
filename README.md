@@ -47,11 +47,24 @@ Team members:
 
 These experiments involve deadly mains voltage and extremely high-voltage, high-frequency output. Do not attempt to recreate these circuits without proper electrical safety training, isolation, and precautions. 
 
+**[2] Mini Singing Tesla Coil: Playing Music with High-Voltage Sparks! 💥**
+
+In this video, I demonstrate my custom-built Mini Singing Tesla Coil—a high-voltage circuit that plays music directly through electrical arcs without using a traditional speaker! 
+
+* [![4](https://img.youtube.com/vi/mHgA2C5n3-Y/maxresdefault.jpg)](https://youtube.com/shorts/mHgA2C5n3-Y)
+* [![5](https://img.youtube.com/vi/VLBL_KWfNSE/maxresdefault.jpg)](https://youtube.com/shorts/VLBL_KWfNSE)
+
+⚙️ The Engineering Behind the Music:
+
+The core of this project is a self-resonating Tesla coil circuit. To make the coil "sing," I implemented Amplitude Modulation (AM). By integrating a TIP122 Darlington transistor, I am able to modulate the bias provided to the resonating circuit using an incoming audio signal. 
+
+As the audio signal fluctuates, the TIP122 rapidly alters the power of the high-frequency electrical arcs. These expanding and contracting arcs instantly heat and cool the surrounding air, creating pressure waves that our ears perceive as perfectly clear music. The spark itself becomes the speaker cone!
+
 **[3] Single-Wire Power Communication Prototype by mikey-7x 💥**
 
 In this experiment, I demonstrate a unique prototype for Single-Wire Power Communication, inspired by Nikola Tesla's high-frequency transmission concepts.
 
-[![4](https://img.youtube.com/vi/mzYTZGSiGVU/maxresdefault.jpg)](https://youtube.com/shorts/mzYTZGSiGVU)
+[![6](https://img.youtube.com/vi/mzYTZGSiGVU/maxresdefault.jpg)](https://youtube.com/shorts/mzYTZGSiGVU)
 
 ​⚡ The Setup & The Discovery:
 
@@ -75,7 +88,7 @@ Even though the 74HC04 ring oscillator has no battery or power supply connected 
 In this video, I demonstrate a custom-built ATmega328p microcontroller-based frequency counter capable of precisely measuring frequencies up to 6.5 - 7 MHz. 
 
 
-[![5](https://img.youtube.com/vi/6mR5HOy_Y4Y/maxresdefault.jpg)](https://youtube.com/shorts/6mR5HOy_Y4Y)
+[![7](https://img.youtube.com/vi/6mR5HOy_Y4Y/maxresdefault.jpg)](https://youtube.com/shorts/6mR5HOy_Y4Y)
 
 ⚡ The Engineering Hack: 
 It Runs Without a Power Supply!
