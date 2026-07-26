@@ -34,7 +34,7 @@ Welcome to my Tesla Coil experimental series! In this ongoing project, I am expl
 * ![tf](tf.jpg)
 * [![3](https://img.youtube.com/vi/UG_9yGoyaUg/maxresdefault.jpg)](https://youtube.com/shorts/UG_9yGoyaUg)
 
-* Tesla Experiments #4: final project in my BBIT collage in Gujarat 💥
+* Tesla Experiments #4:Tesla Testing at Rhihno machines company when doing internship 💥
 
 [![4](https://img.youtube.com/vi/U3UraDk4sdw/maxresdefault.jpg)](https://youtu.be/U3UraDk4sdw)
 
