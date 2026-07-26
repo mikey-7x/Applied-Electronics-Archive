@@ -15,9 +15,7 @@ During my internship at Rhino Machines Pvt. Ltd., I expanded my expertise from d
 **Objective:** Design a fully automated crane cycle using the absolute minimum number of electrical components.
 
 *   **Operation:** A single push of switch 'S' activates contactor 1, running the motor in the forward direction to lift the crane upwards.
-
 *   Once the crane reaches the top, limit switch 1 is pushed, stopping the motor for a specific duration controlled by a timer's delay.
-
 *   After the delay, the system automatically reverses to bring the crane down and stops completely.
 
 *   **Safety Constraints:** The line wire is jointed in series with an MCB, an overload relay, and an emergency switch to ensure human safety and short-circuit protection.If the load increases, the overload relay automatically switches off the system, or it can be manually shut down via the emergency switch.
@@ -32,7 +30,6 @@ Rhino Machines had already developed a highly advanced version of this machine u
 
 **My Solution (The Time Interchange Method):**
 I spent two straight days intensely focused on the circuit design, determined to break the limits of the original industrial standard. I successfully achieved the impossible: **I developed the exact same complex workflow using just one timer and two contactors.**
-
 *   **How it Works:** Phase current turns on contactor 3 through the NO terminal of the overload relay, immediately starting the single timer's delay.
 *   After the delay, Contactor-1 starts, running the 3-phase motor in the forward (crushing) direction.
 *   If the system jams, overload relay-1 detects the load, opening its NC terminal to turn off contactor-1 and stop the motor.
