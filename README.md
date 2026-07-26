@@ -42,6 +42,10 @@ These notebooks focus on pushing the boundaries of power handling, DC-to-AC conv
 
 * Class-D Amplification: High-efficiency, low-heat 250W Class-D audio amplifier architectures
 
+* High-Voltage Generation: Built robust, discrete driver circuits for Tesla coils and scaled 12V-to-220V power inverters focusing on raw, high-current switching efficiency using components like the TTC5200 and 2N2222A.
+
+​*Inductive Power Transfer: Prototyped functional wireless charging systems and metal detection arrays using minimal component counts and raw analog logic.
+
 ### Advanced RF, Telecommunications & Jamming (Books 6, 7, 8 & 9) 
 The circuit complexity and schematic drafting quality jump dramatically here, featuring advanced RF engineering and spectrum manipulation
 
@@ -50,6 +54,12 @@ The circuit complexity and schematic drafting quality jump dramatically here, fe
 * Long-Range Broadcast: Custom 2km TV transmitters, 3W to 15W FM Radio Power Amplifiers (88-108 MHz), and shortwave transmitters
 
 * Complex Transceivers: Multi-band Superheterodyne and Regenerative receivers, complete Walkie-Talkie architectures, and CW (Continuous Wave) transceivers built completely from discrete components
+
+* Microwave-Band VCOs: Designed and built 7.45 GHz Colpitts and differential cross-coupled Voltage Controlled Oscillators (VCOs) from scratch, utilizing Infineon BFP420 transistors for telecommunications hardware.
+
+​*Wideband Low Noise Amplifiers (LNAs): Engineered discrete LNAs targeted at 900MHz and 1800MHz (GSM/LTE bands). These designs prioritize signal gain and noise figure reduction using practical impedance matching and component-level tuning rather than relying purely on theoretical mathematical modeling.
+
+*​Discrete Receiver Architectures: Developed highly sensitive regenerative and superheterodyne receivers for shortwave and VHF bands. The designs utilize specific low-noise BJTs (like the C9018) and custom-wound inductive coils to isolate and decode signals.
 
 ### Bio-Electronics, Embedded Systems & Measurement (Book 10) 
 My most recent work bridging analog hardware with digital processing and human biology.
