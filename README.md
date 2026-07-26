@@ -74,7 +74,7 @@ My most recent work bridging analog hardware with digital processing and human b
 
 ### 🛠️ Skills Demonstrated
 
-* RF Impedance Matching & Calculus: Practical application of L-matching networks,rf oscillators, and Butterworth filter calculations for precise antenna tuning and optimal power transfer
+* tuned RF Impedance Matching & Calculus: Practical application of filters,rf oscillators, and Butterworth filter calculations for precise antenna tuning and optimal power transfer
 
 * Custom Magnetic Component Fabrication: Calculating, designing air-core inductors,air-core ifc using specific AWG copper wire formulas
 
