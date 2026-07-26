@@ -34,6 +34,12 @@ Welcome to my Tesla Coil experimental series! In this ongoing project, I am expl
 * ![tf](tf.jpg)
 * [![3](https://img.youtube.com/vi/UG_9yGoyaUg/maxresdefault.jpg)](https://youtube.com/shorts/UG_9yGoyaUg)
 
+* Tesla Experiments #4: final project in my BBIT collage in Gujarat 💥
+
+[![4](https://img.youtube.com/vi/U3UraDk4sdw/maxresdefault.jpg)](https://youtu.be/U3UraDk4sdw)
+
+
+
 ⚡ About This Series:
 
 Throughout these experiments, my team designing, winding, and testing custom solid-state driver circuits and resonant coils. By generating extremely high voltages at high frequencies, these circuits create strong electromagnetic fields capable of transferring electrical energy through the air without physical wires. Watch as I tweak the primary/secondary ratios, test different MOSFET/transistor driver setups, and push the limits of the arcs!
@@ -51,8 +57,8 @@ These experiments involve deadly mains voltage and extremely high-voltage, high-
 
 In this video, I demonstrate my custom-built Mini Singing Tesla Coil—a high-voltage circuit that plays music directly through electrical arcs without using a traditional speaker! 
 
-* [![4](https://img.youtube.com/vi/mHgA2C5n3-Y/maxresdefault.jpg)](https://youtube.com/shorts/mHgA2C5n3-Y)
-* [![5](https://img.youtube.com/vi/VLBL_KWfNSE/maxresdefault.jpg)](https://youtube.com/shorts/VLBL_KWfNSE)
+* [![](https://img.youtube.com/vi/mHgA2C5n3-Y/maxresdefault.jpg)](https://youtube.com/shorts/mHgA2C5n3-Y)
+* [![](https://img.youtube.com/vi/VLBL_KWfNSE/maxresdefault.jpg)](https://youtube.com/shorts/VLBL_KWfNSE)
 
 ⚙️ The Engineering Behind the Music:
 
@@ -64,9 +70,9 @@ As the audio signal fluctuates, the TIP122 rapidly alters the power of the high-
 
 In this video, I demonstrate a fascinating high-voltage physics phenomenon using my custom-built mini Tesla coil. By bringing a standard glass bulb into the high-frequency RF field of the coil, the low-pressure gas inside the bulb becomes ionized. This creates striking, violet-colored plasma arcs, effectively turning a simple bulb into a miniature plasma globe!
 
-* [![6](https://img.youtube.com/vi/jch7w_8km-I/maxresdefault.jpg)](https://youtube.com/shorts/jch7w_8km-I)
-* [![7](https://img.youtube.com/vi/aZtd49iwb7Q/maxresdefault.jpg)](https://youtube.com/shorts/aZtd49iwb7Q)
-* [![8](https://img.youtube.com/vi/XkZaCG1TXFA/maxresdefault.jpg)](https://youtube.com/shorts/XkZaCG1TXFA)
+* [![](https://img.youtube.com/vi/jch7w_8km-I/maxresdefault.jpg)](https://youtube.com/shorts/jch7w_8km-I)
+* [![](https://img.youtube.com/vi/aZtd49iwb7Q/maxresdefault.jpg)](https://youtube.com/shorts/aZtd49iwb7Q)
+* [![](https://img.youtube.com/vi/XkZaCG1TXFA/maxresdefault.jpg)](https://youtube.com/shorts/XkZaCG1TXFA)
 
 ⚙️ The Science Behind the Arcs:
 The Tesla coil acts as a resonant transformer, generating an intense, high-voltage, high-frequency electromagnetic field. When the glass bulb enters this field, the electrical energy passes right through the glass (acting as a dielectric) and excites the gas molecules inside. As the gas ionizes and enters a plasma state, it forms those visible violet filaments, all without any direct wired connection to the bulb!
@@ -75,7 +81,7 @@ The Tesla coil acts as a resonant transformer, generating an intense, high-volta
 
 In this experiment, I demonstrate a unique prototype for Single-Wire Power Communication, inspired by Nikola Tesla's high-frequency transmission concepts.
 
-[![9](https://img.youtube.com/vi/mzYTZGSiGVU/maxresdefault.jpg)](https://youtube.com/shorts/mzYTZGSiGVU)
+[![](https://img.youtube.com/vi/mzYTZGSiGVU/maxresdefault.jpg)](https://youtube.com/shorts/mzYTZGSiGVU)
 
 ​⚡ The Setup & The Discovery:
 
@@ -99,7 +105,7 @@ Even though the 74HC04 ring oscillator has no battery or power supply connected 
 In this video, I demonstrate a custom-built ATmega328p microcontroller-based frequency counter capable of precisely measuring frequencies up to 6.5 - 7 MHz. 
 
 
-[![10](https://img.youtube.com/vi/6mR5HOy_Y4Y/maxresdefault.jpg)](https://youtube.com/shorts/6mR5HOy_Y4Y)
+[![](https://img.youtube.com/vi/6mR5HOy_Y4Y/maxresdefault.jpg)](https://youtube.com/shorts/6mR5HOy_Y4Y)
 
 ⚡ The Engineering Hack: 
 It Runs Without a Power Supply!
