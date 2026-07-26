@@ -22,12 +22,17 @@ My engineering approach is heavily grounded in hands-on experimentation, compone
 
 Welcome to my Tesla Coil experimental series! In this ongoing project, I am exploring the principles of Nikola Tesla's high-frequency, high-voltage resonant transformers with the ultimate goal of demonstrating and scaling wireless power transmission.
 
+* Tesla Experiments #1: High Voltage Wireless Power Transmission 💥
 [![1](https://img.youtube.com/vi/U8-dYwBFkcc/maxresdefault.jpg)](https://youtube.com/shorts/U8-dYwBFkcc)
 
+* Tesla Experiments #2: High Voltage Wireless Power Transmission 💥
 [![2](https://img.youtube.com/vi/1LTHiPgM9hw/maxresdefault.jpg)](https://youtu.be/1LTHiPgM9hw)
 
+* Tesla Experiments #3: final project in my BBIT collage in Gujarat 💥
 
-[![3](https://img.youtube.com/vi/UG_9yGoyaUg/maxresdefault.jpg)](https://youtube.com/shorts/UG_9yGoyaUg)
+* ![te](te.jpg)
+* ![tf](tf.jpg)
+* [![3](https://img.youtube.com/vi/UG_9yGoyaUg/maxresdefault.jpg)](https://youtube.com/shorts/UG_9yGoyaUg)
 
 ⚡ About This Series:
 
