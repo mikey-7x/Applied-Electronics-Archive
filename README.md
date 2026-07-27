@@ -111,7 +111,7 @@ During my internship at Rhino Machines Pvt. Ltd., I expanded my expertise from d
 *   Once the crane reaches the top, limit switch 1 is pushed, stopping the motor for a specific duration controlled by a timer's delay.
 *   After the delay, the system automatically reverses to bring the crane down and stops completely.
 *   **Safety Constraints:** The line wire is jointed in series with an MCB, an overload relay, and an emergency switch to ensure human safety and short-circuit protection. If the load increases, the overload relay automatically switches off the system, or it can be manually shut down via the emergency switch.
-
+![](ac.jpg)
 [![Automatic Crane Lifting Mechanism](https://img.youtube.com/vi/g0Mo0__jNfM/maxresdefault.jpg)](https://youtube.com/shorts/g0Mo0__jNfM)
 *(Click image to watch the live hardware demonstration)*
 
@@ -122,6 +122,9 @@ Rhino Machines had already developed a highly advanced version of this machine u
 
 **My Solution (The Time Interchange Method):**
 I spent two straight days intensely focused on the circuit design, determined to break the limits of the original industrial standard. I successfully achieved the impossible: **I developed the exact same complex workflow using just one timer and two contactors.**
+
+* #Here is circuit diagram:
+* ![](Tic.jpg)
 
 *   **How it Works:** Phase current turns on contactor 3 through the NO terminal of the overload relay, immediately starting the single timer's delay.
 *   After the delay, Contactor-1 starts, running the 3-phase motor in the forward (crushing) direction.
