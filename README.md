@@ -38,11 +38,11 @@ Throughout these experiments, my team designed, wound, and tested custom solid-s
     ![Tesla Experiment Image 1](te.jpg)
     ![Tesla Experiment Image 2](tf.jpg)
     [![Experiment 3](https://img.youtube.com/vi/UG_9yGoyaUg/maxresdefault.jpg)](https://youtube.com/shorts/UG_9yGoyaUg)
+    
+* **The Dc power supply taken from 30-0-30,12A (720w power) pure copper transformer and used DC voltage is 90vdc & 120vdc from this transformer**
 
 *   **Tesla Experiment #4:** Tesla Testing at Rhino Machines during my internship
     [![Experiment 4](https://img.youtube.com/vi/U3UraDk4sdw/maxresdefault.jpg)](https://youtu.be/U3UraDk4sdw)
-
-* **The Dc power supply taken from 30-0-30,12A (720w power) pure copper transformer and used DC voltage is 90vdc & 120vdc from this transformer**
 
 > ⚠️ **SAFETY WARNING:** These experiments involve deadly mains voltage and extremely high-voltage, high-frequency output. Do not attempt to recreate these circuits without proper electrical safety training, isolation, and precautions. 
 
